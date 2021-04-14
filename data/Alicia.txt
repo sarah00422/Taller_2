@@ -1,7 +1,23 @@
-Square 50 400 30 -1 5
-Circle 30 300 40 1 8
-Square 20 350 50 1 9
-Circle 10 100 200 -1 10
-Circle 60 250 100 1 4
-Square 80 50 50 1 3
-Square 10 100 300 -1 5
+Cuando crece en tamaño, llora por frustración y 
+cuando se ACHICA es lo suficientemente pequeñapara
+nadar en un charco creado con sus propias lágrimas.En
+el charco, se encuentra con muchas criaturas, incluyendo
+un CONEJO.Alicia encuentra la casa del CONEJO y después de beber
+un extraño líquido crece mucho. Aterroriza al CONEJO y a sus vecinos
+y se ACHICA nuevamente después de abanicarse.Alicia sigue intentando tener
+el tamaño adecuado para entrar al jardín.Alicia va a la casa de la Liebre de 
+Marzo, donde se está llevando a cabo una merienda de locos. Alicia se sienta a 
+la mesa con la Liebre, el SOMBRERERO y el Lirón. En el jardín se encuentra con una
+FLOR, una flor parlanchina, quien le aconseja que se comporte. Todos temen ser ejecutados
+por la REINA DE CORAZONES. De pronto aparece la REINA y su entorno formado por cartas de juego.
+La Reina invita a Alicia a jugar al croquet y Alicia se une a un juego muy extraño. Se entera que
+la Duquesa será ejecutada. El CONEJO llega apurado y causa un alboroto.La Duquesa es traída desde prisión
+para aclarar las cosas y comienza a hablar con Alicia con moralejas, sobre todo. La REINA entonces decide que 
+Alicia debe ir a encontrarse con la Falsa Tortuga y es escoltada por el Grifo. Alicia conoce la historia de la
+Falsa Tortuga y presencia una danza llamada El Baile de la Langosta. Una vez más Alicia intenta recitar poesía con
+escaso éxito.El Grifo lleva de nuevo a Alicia a la corte, donde está por comenzar el juicio. La Sota de Corazones está
+siendo juzgada por haberle robado tartas a la REINA. Alicia está emocionada de estar en una corte y de escuchar el testimonio
+del SOMBRERERO y la Cocinera. Alicia también es llamada a testificar. Ha aumentado de tamaño una vez más, de forma inexplicable.
+Alicia es impertinente y el Rey ordena que abandone la corte, pero ella se niega.Está indignada con la injusticia de los procedimientos
+de la corte y provoca que la REINA ordene que la ejecuten.
+

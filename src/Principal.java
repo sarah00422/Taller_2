@@ -1,8 +1,10 @@
+import Controllers.Controller;
 import processing.core.PApplet;
-import processing.event.MouseEvent;
 
 public class Principal extends PApplet {
 
+	Controller controller;
+	
 	public static void main(String[] args) {
 		PApplet.main("Principal");
 	}
@@ -16,7 +18,8 @@ public class Principal extends PApplet {
 
 	@Override
 	public void setup() {
-		
+		this.controller = new Controller("Alicia.txt", this);
+		this.controller.initialize();
 	}
 
 	@Override
