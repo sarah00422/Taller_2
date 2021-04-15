@@ -31,6 +31,15 @@ public class Avatar {
 	public void setImage(String imagePath) {
 		this.image = this.app.loadImage(imagePath);
 	}
+	public void draw() {
+		this.app.image(this.image, posX, posY);
+	}
+	
+	public boolean isClicked(int mouseX, int mouseY) {
+		boolean inRangeX = mouseX > (posX - width/2) && mouseX < (posX + width/2);
+		boolean inRangeY = mouseY > (posY - heigh/2) && mouseY < (posY + heigh/2);
+		return inRangeX && inRangeY;
+	}
 	
     
 }
