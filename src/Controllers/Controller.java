@@ -20,15 +20,38 @@ public class Controller {
 		this.app = _app;
 		this.textData = new ArrayList<ArrayList<Word>>();
 	}
-	
+
 	public void initialize() {
-		//1. read the file
+		//1. load the images to the different avatars
 		this.random = new Random();
 		this.avatars = new ArrayList<Avatar>();
-		Avatar alicia = new Avatar(100, 200, 1, 50, 50, 20, this.app);
+		
+		Avatar flor = new Avatar(417, 358, 265, 242, 20, this.app);
+		flor.setImage("FLOR1.png");
+		this.avatars.add(flor);
+		
+		Avatar alicia = new Avatar(599, 271, 262, 267, 20, this.app);
 		alicia.setImage("ALICIA.png");
 		this.avatars.add(alicia);
 		
+		Avatar sombrerero = new Avatar(407, 512, 232, 775, 20, this.app);
+		sombrerero.setImage("SOMBRERERO.png");
+		this.avatars.add(sombrerero);
+		
+		Avatar reina = new Avatar(779, 444, 284, 231,20, this.app);
+		reina.setImage("REINA1.png");
+		this.avatars.add(reina);
+		
+		Avatar conejo = new Avatar(230, 570, 212, 259, 20, this.app);
+		conejo.setImage("CONEJO.png");
+		this.avatars.add(conejo);
+		
+		
+		
+	}
+	
+	public void loadWords() {
+		//2. load the words and save them into the data structure
 		String[] lines = app.loadStrings(this.filePath);
 		for (int i = 0; i < lines.length; i++) {
 			String[] plainWords = lines[i].split(" ");
@@ -44,6 +67,7 @@ public class Controller {
 			}
 			this.textData.add(objectWords);
 		}
+		
 	}
 }
 

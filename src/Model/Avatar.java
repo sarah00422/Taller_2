@@ -6,18 +6,16 @@ import processing.core.PImage;
 public class Avatar {
 	PImage image;
 	int posX; 
-	int posY;
-	int posZ; 
+	int posY; 
 	int heigh;
 	int width; 
 	int speed;
 	AnimateStrategy animateStrategy; 
 	PApplet app; 
 	
-	public Avatar(int _posX, int _posY, int _posZ, int _heigh, int _width, int _speed, PApplet _app) {
+	public Avatar(int _posX, int _posY, int _heigh, int _width, int _speed, PApplet _app) {
 		this.posX = _posX; 
 		this.posY = _posY; 
-		this.posZ = _posZ; 
 		this.heigh = _heigh;
 		this.width = _width; 
 		this.speed = _speed; 
